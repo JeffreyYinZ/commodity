@@ -1,0 +1,49 @@
+Accuracy: 0.9985	classID:1	acc:0.9375		classID:2	acc:1.0000		classID:3	acc:1.0000		classID:4	acc:1.0000		classID:5	acc:1.0000		classID:6	acc:1.0000		classID:7	acc:1.0000		classID:8	acc:1.0000		classID:9	acc:1.0000		classID:10	acc:1.0000		classID:11	acc:1.0000		classID:12	acc:1.0000		classID:13	acc:1.0000		classID:14	acc:1.0000		classID:15	acc:1.0000		classID:16	acc:1.0000		classID:17	acc:1.0000		classID:18	acc:1.0000		classID:19	acc:1.0000		classID:20	acc:1.0000		classID:21	acc:1.0000		classID:22	acc:1.0000		classID:23	acc:1.0000		classID:24	acc:1.0000		classID:25	acc:1.0000		classID:26	acc:1.0000		classID:27	acc:1.0000		classID:28	acc:1.0000		classID:29	acc:1.0000		classID:30	acc:1.0000		classID:31	acc:1.0000		classID:32	acc:1.0000		classID:33	acc:1.0000		classID:34	acc:0.9844		classID:35	acc:1.0000		classID:36	acc:1.0000		classID:37	acc:1.0000		classID:38	acc:1.0000		classID:39	acc:1.0000		classID:40	acc:1.0000		classID:41	acc:1.0000		classID:42	acc:1.0000		classID:43	acc:1.0000
+
++-----------------------------+-----------+---------------------+-------------+
+|                             | Precision | Recall(Sensitivity) | Specificity |
++-----------------------------+-----------+---------------------+-------------+
+|         Beer_BaiWei         |    1.0    |        0.938        |     1.0     |
+|         Beer_Harbin         |    1.0    |         1.0         |     1.0     |
+|        Beer_Heineken        |    1.0    |         1.0         |     1.0     |
+|    Cupnoodles_HWD_seafood   |    1.0    |         1.0         |     1.0     |
+|     Cupnoodles_KSF_beef     |    1.0    |         1.0         |     1.0     |
+|   Cupnoodles_KSF_beefmini   |    1.0    |         1.0         |     1.0     |
+|  Cupnoodles_KSF_garlicribs  |    1.0    |         1.0         |     1.0     |
+|     Cupnoodles_KSF_pork     |    1.0    |         1.0         |     1.0     |
+|    Drink_CokeCola_bottle    |    1.0    |         1.0         |     1.0     |
+|      Drink_CokeCola_can     |   0.941   |         1.0         |    0.999    |
+|         Drink_Fenta         |    1.0    |         1.0         |     1.0     |
+|    Drink_GreatValue_milk    |    1.0    |         1.0         |     1.0     |
+|       Drink_KSF_icetea      |    1.0    |         1.0         |     1.0     |
+|      Drink_YiLi_QQstar      |    1.0    |         1.0         |     1.0     |
+|    Drink_YiLi_morningmilk   |    1.0    |         1.0         |     1.0     |
+|         Drink_pepsi         |    1.0    |         1.0         |     1.0     |
+|   Nuts_GreatValue_peanuts   |    1.0    |         1.0         |     1.0     |
+|  Nuts_GreatValue_pistachios |    1.0    |         1.0         |     1.0     |
+|      Nuts_QiaQia_icetea     |    1.0    |         1.0         |     1.0     |
+|    Nuts_QiaQia_milktaste    |    1.0    |         1.0         |     1.0     |
+|      Nuts_Quaker_oatmel     |    1.0    |         1.0         |     1.0     |
+|       Nuts_RongYi_GMJ       |    1.0    |         1.0         |     1.0     |
+|     Others_BABO_napkins     |    1.0    |         1.0         |     1.0     |
+|     Others_BlueMoon_mini    |    1.0    |         1.0         |     1.0     |
+|  Others_GreatValue_shiitake |    1.0    |         1.0         |     1.0     |
+| Others_GreatValue_wolfberry |    1.0    |         1.0         |     1.0     |
+|    Others_ShuJie_napkins    |    1.0    |         1.0         |     1.0     |
+|  Others_Wrigleys_doublemint |    1.0    |         1.0         |     1.0     |
+|     Others_XuanMai_lemon    |    1.0    |         1.0         |     1.0     |
+|     Others_XuanMai_mint     |    1.0    |         1.0         |     1.0     |
+|  Seasonings_LiuYueXian_soy  |    1.0    |         1.0         |     1.0     |
+|     Snack_Cheelots_beef     |    1.0    |         1.0         |     1.0     |
+|    Snack_Cheelots_bugles    |    1.0    |         1.0         |     1.0     |
+|    Snack_Cheelots_turkey    |    1.0    |        0.984        |     1.0     |
+| Snack_GreatValue_driedmango |    1.0    |         1.0         |     1.0     |
+|     Snack_Mayora_Astick     |    1.0    |         1.0         |     1.0     |
+|       Snack_Oishi_crab      |    1.0    |         1.0         |     1.0     |
+|     Snack_Oishi_koimori     |   0.985   |         1.0         |    0.999    |
+|    Snack_Oishi_spicyprawn   |    1.0    |         1.0         |     1.0     |
+|    Snack_YinLu_corngruel    |    1.0    |         1.0         |     1.0     |
+|      Snack_YinLu_gruel      |    1.0    |         1.0         |     1.0     |
+|       Sweets_Starburst      |    1.0    |         1.0         |     1.0     |
+|        Tin_XDD_fruit        |    1.0    |         1.0         |     1.0     |
++-----------------------------+-----------+---------------------+-------------+
